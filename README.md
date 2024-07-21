@@ -1,2 +1,2 @@
 # Flood-Monitoring-System
-Disaster Risk Monitoring Using Satellite Imagery
+Flood Monitoring Using Satellite Imagery
